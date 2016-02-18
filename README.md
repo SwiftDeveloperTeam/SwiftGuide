@@ -1,7 +1,7 @@
 Swift 语言指南
 ===
 
-> Swift Style Guide 详见 [here](https://github.com/SwiftDeveloperTeam/SwiftGuide/swift-style-guide.md)
+> Swift Style Guide 详见 [here](https://github.com/SwiftDeveloperTeam/SwiftGuide/blob/master/swift-style-guide.md)
 
 > <span style="color:lightgray;font-size:12px">[@SwiftLanguage](http://weibo.com/swiftlanguage) 更新于 2016-2-1，更新内容详见 [Issue 45](https://github.com/ipader/SwiftGuide/blob/master/weekly/Issue-45.md)。往期更新回顾详见《[收录周报](https://github.com/ipader/SwiftGuide/blob/master/weekly/README.md)》</span>
 
